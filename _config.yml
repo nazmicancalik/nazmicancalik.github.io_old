@@ -22,7 +22,7 @@ title: Nazmican's corner
 email: nazmicancalik@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The corner of Nazmican Calik in the world wide web. Some projects, opinions, blog posts etc. Take a peak! 
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "nazmicancalik.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nzmcnclk
 github_username:  nazmicancalik
