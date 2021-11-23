@@ -29,10 +29,9 @@ github_username:  nazmicancalik
 
 domain: nazmicancalik.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
-remote_theme: mmistakes/minimal-mistakes
 
 # Build settings
-# theme: minima
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
 
