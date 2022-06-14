@@ -21,10 +21,10 @@ var end = new Date('07/15/2022 10:00 AM');
         var minutes = Math.floor((distance % _hour) / _minute);
         var seconds = Math.floor((distance % _minute) / _second);
 
-        document.getElementById('countdown').innerHTML = days + 'days ';
-        document.getElementById('countdown').innerHTML += hours + 'hrs ';
-        document.getElementById('countdown').innerHTML += minutes + 'mins ';
-        document.getElementById('countdown').innerHTML += seconds + 'secs';
+        document.getElementById('countdown').innerHTML = days + ' Days ';
+        document.getElementById('countdown').innerHTML += hours + ' Hours ';
+        document.getElementById('countdown').innerHTML += minutes + ' Mins ';
+        document.getElementById('countdown').innerHTML += seconds + ' Secs ';
     }
 
     timer = setInterval(showRemaining, 1000);
